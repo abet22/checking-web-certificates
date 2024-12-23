@@ -4,10 +4,10 @@ This Python program allows you to check SSL/TLS certificates for multiple hosts.
 
 The program has several execution options:
 
-- Mode to check all certificates** for the hosts listed in the `certificate-names.txt` file, some of which may have special ports.
-- Mode to check a single certificate** given a hostname, without specifying a port.
-- Mode to check a single certificate** given a hostname, specifying a port.
-- Mode to show errors in the terminal** instead of saving them to the `misses.txt` file.
+- **Mode to check all certificates** for the hosts listed in the `certificate-names.txt` file, some of which may have special ports.
+- **Mode to check a single certificate** given a hostname, without specifying a port.
+- **Mode to check a single certificate** given a hostname, specifying a port.
+- **Mode to show errors in the terminal** instead of saving them to the `misses.txt` file.
 
 ## Requirements
 
